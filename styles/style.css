@@ -6,6 +6,7 @@
   background-position: center;
   background-attachment: fixed;
   background-color: var(--background-color);
+
 }
 
 .header {
@@ -109,6 +110,7 @@
 .aria {
   width: 50%;
   justify-self: end;
+  align-self: end;
 }
 .title-decor {
   background-color: var(--accent-color);
